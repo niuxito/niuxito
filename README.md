@@ -1,11 +1,11 @@
 # Alexis Parrón
 
-Desarrollador y creador de soluciones digitales. Entender el problema, simplificarlo y construir algo útil — ese ha sido el hilo conductor desde 2007, entre desarrollo de software, sistemas, infraestructura y liderazgo técnico.
+Developer and solution builder. Understand the problem, simplify it and build something useful — that has been the common thread since 2007, across software development, systems, infrastructure and technical leadership.
 
-Actualmente, Head of DevOps en Sales Layer.
+Currently Head of DevOps at Sales Layer.
 
-**En el taller ahora mismo:** [Skemly](https://skemly.app) — una herramienta que convierte una descripción escrita en un diagrama.
+**In the workshop right now:** [Skemly](https://skemly.app) — a tool that turns a written description into a diagram.
 
-- Web y proyectos: [alexisparron.com](https://www.alexisparron.com)
+- Website and projects: [alexisparron.com](https://www.alexisparron.com)
 - LinkedIn: [in/alexisparron](https://www.linkedin.com/in/alexisparron/)
-- Coorganizador de Space Apps Valencia — 10 ediciones.
+- Co-organizer of NASA Space Apps Valencia — 10 editions.
