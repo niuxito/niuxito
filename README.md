@@ -6,6 +6,8 @@ Currently Head of DevOps at Sales Layer.
 
 **In the workshop right now:** [Skemly](https://skemly.app) — a tool that turns a written description into a diagram.
 
+**Open source:** [Telegram Control](https://github.com/niuxito/telegram-control) — drive AI coding agents (Claude Code, Codex, OpenCode) from Telegram, one topic per project.
+
 - Website and projects: [alexisparron.com](https://www.alexisparron.com)
 - LinkedIn: [in/alexisparron](https://www.linkedin.com/in/alexisparron/)
 - Co-organizer of NASA Space Apps Valencia — 10 editions.
